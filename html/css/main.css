@@ -1,0 +1,246 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body {
+	color: white;
+	font-family: "Bebas Neue", sans-serif;
+	
+}
+
+#main-menu {
+	text-align: center;
+}
+
+
+
+.titreimg{
+	color: #ffffff;
+	letter-spacing: 2px; 
+}
+.compartiment5 button{
+	text-align: center;
+}
+.compartiment5 h1{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	font-size: 25px;
+}
+
+
+.compartiment3 {
+	text-align: center;
+}
+
+
+.compartiment4 {
+	text-align: center;
+}
+
+
+.button1 { 
+	background-image: url("https://i.imgur.com/o7OJ4Qm.png") ;
+	background-size: cover;
+	background-color: #2424245a;
+	color: white;
+	width: 250px;
+	height: 200px;
+	font-size: 25px;
+	margin-top: 0px;
+	margin-left: 2.5px;
+	margin-right: 2.5px;
+	margin-bottom: 2.5px;
+	cursor: pointer;
+	border-radius: 5px;
+	opacity: 0.;
+	display: inline-flex;
+	align-items: flex-start;
+	justify-content: left;
+	font-family: "Bebas Neue", sans-serif;
+	transition: transform .9s;
+	border: none;
+	
+	
+}
+.button1 p {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.button1:hover{
+	background-image: url("https://i.imgur.com/RhoNodS.png") ;
+	background-color: #24242488;
+	-ms-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
+
+.button1 > img { 
+	vertical-align: middle;
+}
+
+
+.button2 { 
+	background-image: url("https://i.imgur.com/TEJeRGo.png") ;
+	background-size: cover;
+	background-color: #2424245a;
+	color: white;
+	width: 250px;
+	height: 200px;
+	font-size: 25px;
+	margin-top: 0px;
+	margin-left: 2.5px;
+	margin-right: 2.5px;
+	margin-bottom: 2.5px;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	opacity: 0.;
+	display: inline-flex;
+	align-items: flex-start;
+	justify-content: left;
+	transition: transform .9s;
+	font-family: "Bebas Neue", sans-serif;
+}
+.button2 p {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.button2:hover{
+	background-image: url("https://i.imgur.com/KDgVEm6.png") ;
+	background-color: #24242488;
+	-ms-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+	
+}
+
+.button3 { 
+	background-image: url("https://i.imgur.com/7Rrs9kx.png") ;
+	background-size: cover;
+	background-color: #2424245a;
+	color: white;
+	width: 250px;
+	height: 60px;
+	font-size: 25px;
+	margin: 2.5px;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	opacity: 0.;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	transition: transform .9s;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+
+.button3:hover{
+	background-image: url("https://i.imgur.com/dpXElt5.png") ;
+	background-color: #24242488;
+	-ms-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+	
+	
+}
+
+
+.button4 { 
+	background-image: url("https://i.imgur.com/8eSllyg.png") ;
+	background-size: cover;
+	background-color: #2424245a;
+	color: white;
+	width: 250px;
+	height: 60px;
+	font-size: 25px;
+	margin: 2.5px;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	opacity: 0.;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	transition: transform .9s;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+
+.button4:hover{
+	background-image: url("https://i.imgur.com/jOeY5Xo.png") ;
+	background-color: #24242488;
+	-ms-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+	
+	
+}
+
+
+.button6 { 
+	background-image: url("https://i.imgur.com/qRAhOwl.png") ;
+	background-size: cover;
+	background-color: #2424245a;
+	color: white;
+	width: 250px;
+	height: 60px;
+	font-size: 25px;
+	margin: 2.5px;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	opacity: 0.;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	transition: transform .9s;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+.button6:hover{
+	background-image: url("https://i.imgur.com/uPboHjN.png") ;
+	background-color: #24242488;
+	-ms-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+	
+	
+}
+
+.button7 { 
+	background-image: url("https://i.imgur.com/KOBZbJ2.png") ;
+	background-size: cover;
+	background-color: #2424245a;
+	color: white;
+	width: 250px;
+	height: 60px;
+	font-size: 25px;
+	margin: 2.5px;
+	cursor: pointer;
+	border: none;
+	border-radius: 5px;
+	opacity: 0.;
+	display: inline-flex;
+	align-items: center;
+	transition: transform .9s;
+	justify-content: center;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+.button7:hover{
+	background-image: url("https://i.imgur.com/eizLhc2.png") ;
+	background-color: #24242488;
+	-ms-transform: scale(1.05);
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+	
+	
+}
+
+
