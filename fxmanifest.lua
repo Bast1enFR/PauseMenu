@@ -1,6 +1,6 @@
 fx_version 'adamant'
 game 'gta5'
-author 'Kassis Mon Amour <3'
+author 'Kas4ndraFR & Bast1enFR'
 description 'Pause Menu'
 version '1.0'
 ui_page 'html/pause_menu.html'
