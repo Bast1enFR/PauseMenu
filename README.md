@@ -1,4 +1,4 @@
-# [DISCORD](https://discord.gg/RFtjqXQz8W) [FiveM Post](https://forum.cfx.re/t/free-pause-menu-standalone-esx-qbcore/5208711)
+# [FiveM Post](https://forum.cfx.re/t/free-pause-menu-standalone-esx-qbcore/5208711)
 # DO NOT REUPLOAD WITHOUT MY CONSENT
 # DO NOT RESELL OR CLAIM AS YOUR
 
